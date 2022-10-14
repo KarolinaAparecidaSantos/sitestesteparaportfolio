@@ -1,4 +1,3 @@
 # portfolioKarolina
-Endereço da minha página de portfólio publicada na internet pelo Github.
-Para visualizar a minha página de portfólio acesse o link:
+Endereço da minha página de portfólio. Para acessá-la acesse o link a seguir:
 https://karolinaaparecidasantos.github.io/portfolioKarolina/
