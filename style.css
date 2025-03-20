@@ -54,6 +54,16 @@ body {
   border-radius: 100px;
 }
 
+.projetos-html {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+  margin-top: 32px;
+  padding: 32px;
+  box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+  border-radius: 20px;
+}
+
 .projetos {
   display: flex;
   flex-direction: column;
